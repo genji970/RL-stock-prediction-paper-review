@@ -1,3 +1,5 @@
+https://arxiv.org/abs/2406.14537
+
 Abstract : High dimensional and sophisticated sequential time series makes model to overfit easily -> Lack of generalization
 
 use sub agent was proposed. But still choosing one sub agent that is suitable for model prediction is just another high biased, overfitting. Volatile markets make data drifting causing overfitting.
