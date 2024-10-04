@@ -1,3 +1,5 @@
+https://arxiv.org/abs/2306.03985
+
 abstract : RL showed robust on many tasks in time series. So, using trained agent with stock datas,  
 doing a real world simulation \-\> result was impressive before coivd and even though result decreased a lot,   
 it is still positive for after 2021\.
